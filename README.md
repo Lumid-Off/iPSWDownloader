@@ -42,25 +42,6 @@ npm run preview
 - **IPSW.me API** — firmware data
 - **Oxlint** — linting
 
-## 📸 Screenshots
-
-### Device Catalog
-Browse all Apple devices with high-quality images
-
-### Firmware List
-View all available IPSW files with signing status, release dates, and direct download links
-
-## 🤝 Credits
-
-- **API** — [IPSW.me](https://ipsw.me)
-- **Images** — [IPSW.me device images](https://ipsw.me/devices)
-- **Project** — by [lumid_off](https://github.com/Lumid-Off)
-- **Community** — [iOSDumps Telegram](https://t.me/iOSDumps)
-
-## 📄 License
-
-MIT
-
 ---
 
 **⌁ IPSW / ARCHIVE** · 2026
